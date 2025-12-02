@@ -1,0 +1,161 @@
+##############################
+# GLOBAL IGNORE
+##############################
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
+*.swp
+
+# Env files
+.env
+.env.local
+.env.*.local
+*.env
+
+##############################
+# PYTHON BACKEND
+##############################
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Qdrant local storage (if used)
+qdrant_data/
+qdrant/
+*.qdrant
+
+# Upload and generated directories
+uploads/
+chunks/
+tts_output/
+itp_data/
+
+# PyPDF temp files
+*.pdf.cache
+
+# FastAPI / Uvicorn logs
+*.pid
+
+##############################
+# NODE / NEXT.JS FRONTEND
+##############################
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+dist/
+build/
+
+# NPM / PNPM / YARN debug logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Frontend caches
+.cache/
+.next/cache/
+
+##############################
+# LOGS & TEMP FILES
+##############################
+
+*.log
+logs/
+debug.log
+
+##############################
+# EDITOR / IDE FILES
+##############################
+
+# VSCode
+.vscode/
+
+# JetBrains / PyCharm
+.idea/
+
+# Other editor junk
+*.iml
+
+##############################
+# MISC
+##############################
+
+# Local data dumps
+*.sqlite
+*.db
+
+# Output media
+*.mp3
+*.wav
+
+# Temporary work folders
+temp/
+tmp/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+
+.env
+uploads/
+chunks/
+__pycache__/
+*.pyc
+venv/
+.venv/
