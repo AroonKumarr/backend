@@ -1,0 +1,52 @@
+ID,Violation,Fine_PKR
+1,No driving license,5000
+2,Over-speeding,2000
+3,Driving without helmet,1000
+4,Red light violation,3000
+5,Wrong parking,1000
+6,No seatbelt,1000
+7,Using mobile while driving,1500
+8,Driving under influence,5000
+9,Reckless driving,4000
+10,Overloading,3000
+11,No vehicle registration,2000
+12,Expired vehicle registration,1500
+13,No road tax,1500
+14,Obstructing traffic,1000
+15,Driving in wrong lane,1000
+16,Not using indicators,1000
+17,Driving without mirrors,1000
+18,Not stopping for pedestrian,2500
+19,Illegal U-turn,1500
+20,Not wearing reflective vest,1000
+21,Driving in bus lane,2000
+22,Driving without insurance,2500
+23,No headlight at night,1000
+24,No tail light,1000
+25,No brake light,1000
+26,Carrying excess passengers,3000
+27,Unauthorized horn use,500
+28,Not following traffic signs,1000
+29,Throwing garbage from vehicle,500
+30,Tampering with number plate,2000
+31,Jumping queue,5000
+32,Using fake documents,3000
+33,Driving unfit vehicle,3000
+34,Overloading goods,4000
+35,Parking in no-parking zone,3000
+36,Driving against traffic,1000
+37,Driving without seat,4000
+38,Obstructing emergency vehicle,1000
+39,Sound pollution,2000
+40,Not giving way,500
+41,Violation of one-way,1000
+42,Blocking junction,500
+43,Overloading bike,1500
+44,Driving without visor,2500
+45,Improper lane changing,1000
+46,Crossing median,500
+47,Not obeying traffic police,1500
+48,Illegal racing,2000
+49,Using unauthorized lights,1500
+50,Violation of school zone,1000
+51,Failure to yield,1000

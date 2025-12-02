@@ -1,0 +1,21 @@
+Violation,Fine Amount (Rs),Section,Penalty Points
+Signal Violation,500,5(2)(b),2
+Over Speeding,1000,7(3)(d),3
+Without Helmet,300,4(1)(a),2
+Using Mobile While Driving,1000,8(2)(c),3
+Driving Without License,1500,2(1)(a),4
+Parking in No Parking Zone,500,9(1)(d),1
+Driving in Wrong Lane,800,6(3)(a),2
+Seat Belt Not Worn,300,4(2)(c),1
+Illegal Overtaking,700,7(5)(b),2
+Driving Without Number Plate,1000,5(4)(c),2
+Expired Registration,800,9(2)(d),1
+Vehicle Without Fitness Certificate,1200,10(1)(b),3
+Tinted Windows,500,11(2)(a),1
+Blowing Horn in Silent Zone,200,12(2)(c),1
+Driving Without Insurance,1500,13(1)(b),3
+Carrying Excess Passengers,700,14(3)(a),2
+Smog Emission Violation,1000,15(2)(c),2
+Rash and Negligent Driving,2000,16(3)(b),4
+Hit and Run Case,5000,17(1)(a),5
+Blocking Emergency Vehicle,2500,18(2)(a),5

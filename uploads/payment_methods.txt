@@ -1,0 +1,20 @@
+E-Challan can be paid through JazzCash, EasyPaisa, or 1Link ATM services.
+Manual challan payments can be made at ITP Headquarters F-8 Markaz or any designated traffic zone office.
+Online payments are available through the Islamabad City App and Pakistan Citizen Portal.
+ITP also accepts challan payments through HBL Konnect and Allied Bank digital banking platforms.
+Cash payments are accepted at National Bank branches designated for traffic fines.
+Fine receipts are generated automatically and sent via SMS after payment confirmation.
+Citizens can verify challan status online using CNIC or vehicle registration number.
+E-receipts can be downloaded directly from the ITP portal after payment.
+Late payments may incur a penalty fee of Rs. 200 after 30 days.
+Payments made through JazzCash or EasyPaisa update in the system within 10 minutes.
+In case of payment failure, users are advised to contact ITP Helpline at 1915.
+Bulk fine payments for companies or organizations are available through ITP corporate services.
+E-Challan QR codes can be scanned for instant payment verification.
+Citizens are encouraged to use online methods to avoid long queues at traffic offices.
+All challan payments are recorded in the Islamabad Police central database.
+Duplicate receipts can be requested by visiting any ITP office.
+For refunds due to duplicate payments, an application can be submitted to ITP Finance Section.
+Receipts and challan records can be exported in PDF from the ITP web portal.
+ITP encourages citizens to verify their challan payment history regularly.
+Failure to pay challan within 60 days may result in vehicle impoundment.
