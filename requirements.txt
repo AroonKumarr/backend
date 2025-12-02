@@ -25,7 +25,8 @@ sounddevice==0.4.7
 pydub==0.25.1
 SpeechRecognition==3.10.4
 gTTS==2.5.3
-torch==2.4.1
+torch==2.9.1
+
 torchaudio==2.4.1
 
 # --- Utilities ---
